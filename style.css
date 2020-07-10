@@ -136,7 +136,7 @@ nav ul li a:hover
 
 .col-xs-3 h5 p
 {
-	font-size: 25px;
+	font-size: 27px;
 	font-weight: normal;
 	font-family: courier;
 	line-height: 30px;
@@ -241,8 +241,8 @@ nav ul li a:hover
 {
 	padding-left: 240px;
     color: #000;
-   font-size: 20px;
-   font-family: cursive;
+   font-size: 23px;
+   font-family: verdana;
    margin-top: 2px;
 }
 #about-me
